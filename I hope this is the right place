@@ -1,0 +1,20 @@
+print("Hello, World")
+if 5 > 2:
+  print("Five is greater than two!")
+#This is a commet
+'''
+This is a comment
+written in 
+more than just one line
+'''
+carname = "Volvo"
+x = 50
+x = 5
+y = 10
+z = x + y
+print(z)
+myfirst_name = "John"
+x = y = z = "Orange"
+def myfunc():
+  global x
+  x = "fantastic"
